@@ -1,0 +1,7 @@
+[book]
+title = "Web3 Incident Response"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/web3-incident-response"
